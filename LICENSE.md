@@ -1,4 +1,4 @@
-# 
+# 自定义 Affinity Photo 滤镜 Mac OS版 | 最佳 Affinity Photo 滤镜 PC Windows版。集成 调整图层 和 材质节点，跨平台性能最大化。
 
 
 
